@@ -39,12 +39,12 @@ import { getAuthorizationString,
 //  - getTags() which is called on the homepage
 //  - search method which is called even if the user search in an other source
 export const PaperbackInfo: SourceInfo = {
-    version: '1.2.12',
+    version: '1.2.13',
     name: 'Paperback',
     icon: 'icon.png',
     author: 'Lemon | Faizan Durrani',
     authorWebsite: 'https://github.com/FramboisePi',
-    description: 'Komga client extension for Paperback',
+    description: 'Hotpatched Komga client extension for Paperback',
     contentRating: ContentRating.EVERYONE,
     websiteBaseURL: 'https://komga.org',
     sourceTags: [
