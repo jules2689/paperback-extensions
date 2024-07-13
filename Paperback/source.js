@@ -1056,12 +1056,12 @@ var _Sources = (() => {
 
   // src/Paperback/Paperback.ts
   var PaperbackInfo = {
-    version: "1.2.12",
+    version: "1.2.13",
     name: "Paperback",
     icon: "icon.png",
     author: "Lemon | Faizan Durrani",
     authorWebsite: "https://github.com/FramboisePi",
-    description: "Komga client extension for Paperback",
+    description: "Hotpatched Komga client extension for Paperback",
     contentRating: import_types.ContentRating.EVERYONE,
     websiteBaseURL: "https://komga.org",
     sourceTags: [
